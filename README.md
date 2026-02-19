@@ -18,4 +18,4 @@ I’m currently focusing on **building websites with HTML, CSS & JavaScript** an
 ---
 
 ## 📫 Contact
-• [Portfolio](https://bananabrother77.github.io/AboutMe/)
+• [Portfolio](https://bananabrother77.online/)
