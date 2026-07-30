@@ -1,19 +1,23 @@
 # Hi, I'm BananaBrother77 🍌
 
-I’ve tried learning to code many times before, but this time I’m sticking with it!  
-I’m currently focusing on **building websites with HTML, CSS & JavaScript** and working on real projects.
+I'm a casual dev who loves spending time with funny people that share the same interests. I still enjoy learning new stuff and hanging out as a staff member at MCSH.
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Environment
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=archlinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
 
 ## 📊 GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/BananaBrother77?style=social)
+![BananaBrother77's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaBrother77&show_icons=true&theme=tokyonight)
 
 ---
 
