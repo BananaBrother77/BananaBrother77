@@ -23,3 +23,7 @@ I'm a casual dev who loves spending time with funny people that share the same i
 
 ## 📫 Contact
 • [Portfolio](https://bananabrother77.online/)
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K6E724L3BL)
