@@ -22,7 +22,7 @@ I'm a casual dev who loves spending time with funny people that share the same i
 ---
 
 ## 📫 Contact
-• [Portfolio](https://bananabrother77.online/)
+• [Portfolio](https://bananabrother77.dev/)
 
 ---
 
